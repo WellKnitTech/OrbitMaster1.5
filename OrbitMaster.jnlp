@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.5" href="Generic Asteroid _ OrbitMaster - Copy.jnlp">
+
+   <information>
+      <title>OrbitMaster</title>
+      <vendor>NoOne</vendor>
+      <description>OrbitMaster</description>
+      <homepage href="http://www.schreiner.edu"/>
+      <description kind="short">OrbitMaster</description>
+      <offline-allowed/>
+   </information>
+   
+   
+
+   
+<resources>
+  <jar href="OrbitViewer.jar"/>
+</resources>
+<applet-desc main-class="OrbitViewer" name="OrbitViewer" width="1366" height="768">
+  <param name="Name" value="Object">
+  <param name="Epoch" value="19991118.5">
+  <param name="M" value="356.648434">
+  <param name="e" value="0.07831587">
+  <param name="a" value="2.76631592">
+  <param name="Peri" value=" 73.917708">
+  <param name="Node" value=" 80.495123">
+  <param name="Incl" value=" 10.583393">
+  <param name="Eqnx" value="2000.0">
+</applet-desc>
+
+</jnlp>
