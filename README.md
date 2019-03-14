@@ -1,8 +1,11 @@
 # OrbitMaster1.5
-Original source code provided by Andrew Puckett of Columbus State University
+Original source code provided by Andrew Puckett of Columbus State University.
 
 JNLP file has sucessfully run on Windows 10 with AdoptOpenJDK 8 with the OpenJ9 JVM.
 https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=openj9
+
+Also works with Amazon Coretto 8.
+https://aws.amazon.com/corretto/
 
 IcedTea-Web 1.7.2's javaws.bat launches the JNLP.
 http://icedtea.wildebeest.org/download/icedtea-web-binaries/1.7.2/windows/
